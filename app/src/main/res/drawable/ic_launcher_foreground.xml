@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#F7931A"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0"/>
+
+    <!-- Bitcoin B symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62.5,47.5c2.5,-1.5 4,-4 4,-7c0,-5 -4,-9 -9,-9h-12v36h14c5,0 9,-4 9,-9c0,-4.5 -2.5,-8 -6,-11zM50,37h6c2.2,0 4,1.8 4,4s-1.8,4 -4,4h-6v-8zM57,63h-7v-10h7c2.8,0 5,2.2 5,5s-2.2,5 -5,5z"/>
+
+    <!-- Top vertical line -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,28h4v6h-4z"/>
+
+    <!-- Bottom vertical line -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,66h4v6h-4z"/>
+
+</vector>
